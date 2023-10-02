@@ -1,0 +1,19 @@
+body {
+    background-color: #f2f2f2;
+    font-family: arial,sans-serif;
+}
+table {
+    width: 100%;
+    margin: auto;
+}
+table,th,td {
+    border: #999 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+th {
+    text-align: left;
+}
+tr.highlight {
+    background-color: #ddd;
+}

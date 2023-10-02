@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+body {
+    font-family: arial,sans-serif;
+    background-color: #f2f2f2;
+}
+table {
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
+}
+table,th,td {
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px #ddd;
+}
+th {
+    color: #ddd;
+    background-color: slateblue;
+}
+td {
+    text-align: center;
+}
+.highlight {
+    background-color: lightgray;
+}
+.color1 {
+    background-color: green;
+    color: #ddd;
+    border-radius: 10px;
+}
+.color2 {
+    background-color: orange;
+    color: #ddd;
+    border-radius: 10px;
+}
+.color4 {
+    background-color: orangered;
+    color: #ddd;
+    border-radius: 10px;
+}

@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+body {
+    font-family: arial,sans-serif;
+    background-color: lightgray;
+}
+table {
+    width: 100%;
+    margin: auto;
+}
+table,th {
+    border-collapse: collapse;
+}
+th,td {
+    padding: 10px;
+}
+th {
+    background-color: slateblue;
+    color: #ddd;
+}
+td {
+    text-align: center;
+}
+.highlight {
+    background: #ddd;
+}
+tr {
+    background-color: white;
+}
+.hours1 {
+    background-color: forestgreen;
+    color: #ddd;
+}
+.hours2 {
+    background-color: orange;
+    color: #ddd;
+}
+.hours3 {
+    background-color:green ;
+    color: #ddd;
+}
+.hours4 {
+    background-color: orangered;
+    color: #ddd;
+}
+.hours5 {
+    background-color: darkorange;
+    color: #ddd;
+}
